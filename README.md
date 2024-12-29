@@ -30,7 +30,6 @@ A simple and efficient calculator application developed in **Java**, capable of 
 - Add support for advanced operations like square roots, exponents, and logarithms.
 - Implement a history feature to keep track of previous calculations.
 - Include a dark mode for improved UI experience.
-- 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
